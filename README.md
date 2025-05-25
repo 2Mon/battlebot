@@ -27,5 +27,4 @@ The link is just an estimate for how much they will cost!
 
 thanks ogre for the name <3
 
-https://palmbeachbots.com/products/banebots-t61-hub-4mm-shaft-1-wide?_pos=4&_fid=3c8b3f5c5&_ss=c
 
