@@ -1,11 +1,15 @@
 # Untitled Document Battlebot
 A vertical spinner battlebot that may happen eventually 
 
-Onshape Link: COMING SOON (tm)
+![image](https://github.com/user-attachments/assets/4d3bc796-c390-4a45-80ee-2f9c7c9f9917)
+
+This is my vertical spinner battlebot that I'm calling "Untitled Document". It uses a steel blade that should easily destroy enemy shields and weapons. It uses two steel forks at the front to lift other bots into the spinner, allowing for shots under the bots. 
+
+Onshape Link: [https://cad.onshape.com/documents/3b2e3f55b2d7ffb8620a25ee/w/87cee305e91c2ea666c4467e/e/6488bf77fe22068a5b4a9170?renderMode=0&uiState=683385c1c1a2b76f758891f1](url)
 
 BOM: CSV In Repo
 
-| Item Name             | Price (USD) | Quantity | Total (USD) | Purchase Link |
+| Item Name             | Price (USD) | Quantity | Total (USD) | Purchase Link | 
 |-----------------------|-------------|----------|-------------|----------------|
 | Repeat Mini Brushed Mk2 | 20.00     | 2        | 40.00       | [Repeat Robotics](https://repeat-robotics.com/buy/brushed/) |
 | Drive ESC             | 45.00       | 1        | 45.00       | [Repeat Robotics](https://repeat-robotics.com/buy/repeat-am32-dual-brushless-drive-esc/) |
