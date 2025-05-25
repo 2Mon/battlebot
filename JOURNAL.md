@@ -14,8 +14,6 @@ In this session, I found some basic parts I can use for the bot, mainly the driv
 
 **Total time spent: 3h**
 
-------------------------------------------------------
-
 # Started designing the frame
 
 In this session, I continued building out the frame for the bot, prioritizing having well protected wheels and began making a space for the weapon motor to be placed. I will be designing one half of the frame at a time and mirroring it so its easiest. This is my first attempt at a protected wheel.
@@ -29,7 +27,6 @@ I also decided to change the front so its more of a wedge shape, hopefully this 
 
 **Total time spent: 4h**
 
-------------------------------------------------------
 
 # Designed weapon motor mount and blade
 
@@ -58,3 +55,22 @@ I also worked on a color scheme for this bot. Not sure if I will keep it this wa
 
 
 **Total time spent: 4h**
+
+# Redesign time!
+
+I realized that the positioning of my spinner wasnt great in this configuration. The tip of the weapon barely stuck out of the bot and it would be hard to get hits in on low to the ground robot. I decided to redesign the weapon mount, making it angle slightly forwards instead of back. 
+
+<img src="https://github.com/user-attachments/assets/ceb3f5f1-2fab-4aec-ab00-7669ebf8cdf1" width="300"/>
+
+As you can see, its now basically vertical, which should make it easier to get hits in on bots. I also lowered the position of the motor with the goal of getting under low bots easier. I also changed out the motors for smaller ones, as the large motors I was using before were overkill for a bot of this size. 
+
+I also spent time designing forks to help lift the other bots into my spinner. I took insperation from bots like "get shrekt" and "Kreigmesser v2" for these. The forks also double as my front "wheels", basically stopping the bot's weapon from scraping on the ground. I had to remove a good chunk of the center of the bot to fit the weapon in, so these forks should keep it high enough off the ground to not contact. 
+
+<img src="https://github.com/user-attachments/assets/12c99f11-e712-44b3-960e-09571614a342" width="500"/>
+
+One thing im worried about is that it seems very front heavy, which could be an issue in fights. 
+
+**Total time spent: 3h**
+
+
+
