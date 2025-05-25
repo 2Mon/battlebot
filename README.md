@@ -23,6 +23,8 @@ BOM: CSV In Repo
 | Wheels                | 3.29        | 4        | 13.16       | [Palm Beach Bots](https://palmbeachbots.com/products/banebots-t61-hub-4mm-shaft-1-wide?) |
 | Hubs                  | 4.49        | 2        | 8.98        | [Palm Beach Bots](https://palmbeachbots.com/products/banebots-t61-hub-4mm-shaft-1-wide?) |
 
+PLEASE NOTE: THIS IS NOT INCLUDING SHIPPING/TAX! I AM PAYING THAT OUT OF POCKET
+
 
 **DO NOT BUY THE STEEL LASER CUT PARTS**
 The link is just an estimate for how much they will cost!
