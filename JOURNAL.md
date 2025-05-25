@@ -41,7 +41,8 @@ In this session I designed the hub motor mount and blade. I spent a lot of time 
 
 ^ rounded back
 
+I also worked on a color scheme for this bot. Not sure if I will keep it this way, but it doesnt look bad imo
 
-
+<img src="https://github.com/user-attachments/assets/78b82942-e86e-412b-910e-e3bcb8110806" width="300"/>
 
 
