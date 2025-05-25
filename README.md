@@ -3,7 +3,7 @@ A vertical spinner battlebot that may happen eventually
 
 Onshape Link: COMING SOON (tm)
 
-BOM: 
+BOM: CSV In Repo
 
 | Item Name             | Price (USD) | Quantity | Total (USD) | Purchase Link |
 |-----------------------|-------------|----------|-------------|----------------|
