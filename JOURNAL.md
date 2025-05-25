@@ -72,5 +72,18 @@ One thing im worried about is that it seems very front heavy, which could be an 
 
 **Total time spent: 3h**
 
+# oops!
+
+I messed up with the forks, as I rigidly mounted them at two points instead of one. Attatching it at one means that it can rotate up and down a little, letting it glide across the surface easier. I also removed the little lumps on the bottoms of them, and replaced it with replacable lumps in the body itself. 
+
+I also rounded out the back of the bot and made the wheels bigger. This will help the bot flip itself if it gets stuck upside down. 
+
+<img src="https://github.com/user-attachments/assets/c893197e-ac21-4ad8-bc96-fca91b04acd3" width="500"/>
+
+In this picture you can see the new fork design and the larger wheels. You can also see the little blue pads that can ride along the ground. I plan to print these out of PETG, because it has some self lubricating properties. I took insperation for the rounding from "Tech V3", as the fights I have seen seem to be fairly successful. My only worry with this setup is that my back wheels are now very exposed, which could become an issue in fights. 
+
+**Total time spent: 2h**
+
+
 
 
