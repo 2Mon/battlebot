@@ -1,5 +1,4 @@
 # Untitled Document Battlebot
-A vertical spinner battlebot that may happen eventually 
 
 ![image](https://github.com/user-attachments/assets/4d3bc796-c390-4a45-80ee-2f9c7c9f9917)
 
