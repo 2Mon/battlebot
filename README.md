@@ -2,3 +2,5 @@
 A vertical spinner battlebot that may happen eventually 
 
 Onshape Link: COMING SOON (tm)
+
+BOM: COMING SOON 
