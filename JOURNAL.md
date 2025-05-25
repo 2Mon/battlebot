@@ -5,6 +5,7 @@ description: "Vertical spinner battlebot to compete at GSCRL"
 created_at: "2025-5-25"
 ---
 
+**Total Time spent: 18h**
 
 # Found basic parts to use!
 
@@ -12,7 +13,7 @@ In this session, I found some basic parts I can use for the bot, mainly the driv
 
 <img src="https://github.com/user-attachments/assets/cef81466-e99b-436f-84a9-11f4e70343bd" width="400"/>
 
-**Total time spent: 3h**
+**Time spent: 3h**
 
 # Started designing the frame
 
@@ -25,7 +26,7 @@ I also decided to change the front so its more of a wedge shape, hopefully this 
 <img src="https://github.com/user-attachments/assets/12c9688b-8044-43b9-9c96-6ad03f3dc274" width="400"/>
 
 
-**Total time spent: 4h**
+**Time spent: 4h**
 
 
 # Designed weapon motor mount and blade
@@ -54,7 +55,7 @@ I also worked on a color scheme for this bot. Not sure if I will keep it this wa
 <img src="https://github.com/user-attachments/assets/78b82942-e86e-412b-910e-e3bcb8110806" width="300"/>
 
 
-**Total time spent: 4h**
+**Time spent: 4h**
 
 # Redesign time!
 
@@ -70,7 +71,7 @@ I also spent time designing forks to help lift the other bots into my spinner. I
 
 One thing im worried about is that it seems very front heavy, which could be an issue in fights. 
 
-**Total time spent: 3h**
+**Time spent: 3h**
 
 # oops!
 
@@ -82,8 +83,18 @@ I also rounded out the back of the bot and made the wheels bigger. This will hel
 
 In this picture you can see the new fork design and the larger wheels. You can also see the little blue pads that can ride along the ground. I plan to print these out of PETG, because it has some self lubricating properties. I took insperation for the rounding from "Tech V3", as the fights I have seen seem to be fairly successful. My only worry with this setup is that my back wheels are now very exposed, which could become an issue in fights. 
 
-**Total time spent: 2h**
+**Time spent: 2h**
 
+
+# Final Touches
+
+In this session, I added some of the final touches to the bot. This included a top plate, electronics compartment, and support for the hub motor. I also decided on the wheels I was going to use, instead of custom sillicone ones I landed on COTS wheels for simplicty and cost saving. Im also using COTS wheel hubs, which should be super strong. 
+
+<img src="https://github.com/user-attachments/assets/3d35a7db-6f74-413d-aed1-51e7f14b4913" width="500"/>
+
+As you can see in this image, the top plate is fairly thin. I was having issues keeping the whole bot under the 1lb weight limit, so I may need to add pockets or even cut it out of carbon fiber. Overall I am very happy with the design of this bot. I really like the shape of the spinner and I am optimistic for its performance in fights.
+
+**Time spent: 2h**
 
 
 
