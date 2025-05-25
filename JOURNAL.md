@@ -1,6 +1,6 @@
 Session 1: 3 hours 
 
-I Found some basic parts I can use for the bot, mainly the drive and hub motors. I started designing a basic frame to mount all the parts to. Pictured here is my innitial motor mount concept. 
+In this session, I found some basic parts I can use for the bot, mainly the drive and hub motors. I started designing a basic frame to mount all the parts to. Pictured here is my innitial motor mount concept. 
 
 <img src="https://github.com/user-attachments/assets/cef81466-e99b-436f-84a9-11f4e70343bd" width="400"/>
 
