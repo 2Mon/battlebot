@@ -33,3 +33,6 @@ The link is just an estimate for how much they will cost!
 thanks ogre for the name <3
 
 
+Wiring Diagram:
+
+<img src="https://github.com/user-attachments/assets/133de5e9-8c58-4a56-a77b-5cc73e8f7cca" width="600"/>
