@@ -27,6 +27,7 @@ BOM: CSV In Repo
 | 12mm Plastic Screws   | 8.73        | 1        | 8.73        | [McMaster Carr](https://www.mcmaster.com/catalog/131/3432/99461A943) |
 | Wheels                | 3.29        | 4        | 13.16       | [Palm Beach Bots](https://palmbeachbots.com/products/banebots-t61-hub-4mm-shaft-1-wide?) |
 | Hubs                  | 4.49        | 2        | 8.98        | [Palm Beach Bots](https://palmbeachbots.com/products/banebots-t61-hub-4mm-shaft-1-wide?) |
+| Transmitter           | 59.99       | 1        | 59.99       | [Amazon](https://www.amazon.com/FLYSKY-Transmitter-Controller-Receiver-Upgrade/dp/B07Z8VCB45) |
 
 PLEASE NOTE: THIS IS NOT INCLUDING SHIPPING/TAX! I AM PAYING THAT OUT OF POCKET
 
