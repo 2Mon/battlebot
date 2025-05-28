@@ -40,4 +40,4 @@ thanks ogre for the name <3
 
 Wiring Diagram:
 
-<img src="https://github.com/user-attachments/assets/133de5e9-8c58-4a56-a77b-5cc73e8f7cca" width="600"/>
+<img src="https://github.com/user-attachments/assets/3a768724-029b-449a-bd6f-500fd33ccb43" width="600"/>
