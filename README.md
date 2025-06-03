@@ -16,7 +16,7 @@ BOM: CSV In Repo
 | Item Name             | Price (USD) | Quantity | Total (USD) | Purchase Link | 
 |-----------------------|-------------|----------|-------------|----------------|
 | Repeat Mini Brushed Mk2 | 20.00     | 2        | 40.00       | [Repeat Robotics](https://repeat-robotics.com/buy/brushed/) |
-| Drive ESC             | 45.00       | 1        | 45.00       | [Repeat Robotics](https://repeat-robotics.com/buy/repeat-am32-dual-brushless-drive-esc/) |
+| Drive ESC             | 15.00       | 1        | 15.00       | [Repeat Robotics](https://repeat-robotics.com/buy/desc/) |
 | Weapon ESC            | 13.50       | 1        | 13.50       | [Repeat Robotics](https://repeat-robotics.com/buy/readytosky-35a-blheli_s-ant-weapon-esc/) |
 | Power Switch          | 9.00        | 1        | 9.00        | [Repeat Robotics](https://repeat-robotics.com/buy/fingertech-switch/) |
 | FlySky Reciever       | 13.00       | 1        | 13.00       | [Repeat Robotics](https://repeat-robotics.com/buy/flysky-fs2a-receiver/) |
