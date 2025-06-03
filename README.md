@@ -17,7 +17,6 @@ BOM: CSV In Repo
 |-----------------------|-------------|----------|-------------|----------------|
 | Repeat Mini Brushed Mk2 | 20.00     | 2        | 40.00       | [Repeat Robotics](https://repeat-robotics.com/buy/brushed/) |
 | Drive ESC             | 45.00       | 1        | 45.00       | [Repeat Robotics](https://repeat-robotics.com/buy/repeat-am32-dual-brushless-drive-esc/) |
-| Weapon Hub Motor      | 50.00       | 1        | 50.00       | [Itgresa](https://itgresa.com/product/repeat-robotics-2207-battle-ready-hubmotor-1800kv/) |
 | Weapon ESC            | 13.50       | 1        | 13.50       | [Repeat Robotics](https://repeat-robotics.com/buy/readytosky-35a-blheli_s-ant-weapon-esc/) |
 | Power Switch          | 9.00        | 1        | 9.00        | [Repeat Robotics](https://repeat-robotics.com/buy/fingertech-switch/) |
 | FlySky Reciever       | 13.00       | 1        | 13.00       | [Repeat Robotics](https://repeat-robotics.com/buy/flysky-fs2a-receiver/) |
@@ -27,6 +26,7 @@ BOM: CSV In Repo
 | 12mm Plastic Screws   | 8.73        | 1        | 8.73        | [McMaster Carr](https://www.mcmaster.com/catalog/131/3432/99461A943) |
 | Wheels                | 3.29        | 4        | 13.16       | [Palm Beach Bots](https://palmbeachbots.com/products/banebots-t61-hub-4mm-shaft-1-wide?) |
 | Hubs                  | 4.49        | 2        | 8.98        | [Palm Beach Bots](https://palmbeachbots.com/products/banebots-t61-hub-4mm-shaft-1-wide?) |
+| Weapon Hub Motor      | 50.00       | 1        | 50.00       | [Palm Beach Bots](https://palmbeachbots.com/products/repeat-robotics-2207-battle-ready-hubmotor?variant=43905065058486) |
 | Transmitter           | 59.99       | 1        | 59.99       | [Amazon](https://www.amazon.com/FLYSKY-Transmitter-Controller-Receiver-Upgrade/dp/B07Z8VCB45) |
 
 PLEASE NOTE: THIS IS NOT INCLUDING SHIPPING/TAX! I AM PAYING THAT OUT OF POCKET
