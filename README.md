@@ -21,7 +21,7 @@ BOM: CSV In Repo
 | Power Switch          | 9.00        | 1        | 9.00        | [Repeat Robotics](https://repeat-robotics.com/buy/fingertech-switch/) |
 | FlySky Reciever       | 13.00       | 1        | 13.00       | [Repeat Robotics](https://repeat-robotics.com/buy/flysky-fs2a-receiver/) |
 | Shoulder Bolt         | 5.00        | 1        | 5.00        | [Repeat Robotics](https://repeat-robotics.com/buy/2207-battle-ready-hubmotor/?attribute_kv-value=1800&attribute_part=0.25+x+1.5%22+shoulder+bolt+with+locknut) |
-| Steel Laser Cut Parts | 48.70       | 1        | 48.70       | [Fabworks](https://www.fabworks.com/share/JP7g5xKhfYvV) |
+| Steel Laser Cut Parts | 35.01       | 1        | 35.01       | [SendCutSend]() |
 | 3s 380mah Battery     | 25.25       | 1        | 25.25       | [Amazon](https://www.amazon.com/GAONENG-Battery-380mAh-Horizon-Inductrix/dp/B09CD6H1CR/) |
 | Transmitter           | 59.99       | 1        | 59.99       | [Amazon](https://www.amazon.com/FLYSKY-Transmitter-Controller-Receiver-Upgrade/dp/B07Z8VCB45) |
 | 12mm Plastic Screws   | 8.73        | 1        | 8.73        | [McMaster Carr](https://www.mcmaster.com/catalog/131/3432/99461A943) |
