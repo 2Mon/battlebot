@@ -5,7 +5,7 @@ description: "Vertical spinner battlebot to compete at GSCRL"
 created_at: "2025-5-25"
 ---
 
-**Total Time spent: 18h**
+**Total Time spent: 20h**
 
 # Found basic parts to use!
 
@@ -96,5 +96,10 @@ As you can see in this image, the top plate is fairly thin. I was having issues 
 
 **Time spent: 2h**
 
+# More Changes!
 
+I made a couple changes to my vertical assembly in this session. I decided to add some 1mm carbon fiber plates to the verticals and made them thinner overall. This was important because TPU is very flexable and likely not hold up to the vibration of the motor. This will also make the frame slightly lighter, as I am worried about the total weight of the bot. I also added a cable routing channel for the main motor. 
 
+<img src="https://github.com/user-attachments/assets/75aa1534-ac7c-46d2-864e-3ace9095efd9" width="400"/>
+
+**Time spent: 2h**
