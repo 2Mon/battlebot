@@ -5,7 +5,7 @@ description: "Vertical spinner battlebot to compete at GSCRL"
 created_at: "2025-5-25"
 ---
 
-**Total Time spent: 24h**
+**Total Time spent: 28h**
 
 # Found basic parts to use!
 
@@ -131,6 +131,7 @@ I thought my bot could use some nice renders that Onshape cant do, so I pulled t
 
 <img src="https://github.com/2Mon/battlebot/blob/main/img/BotRenderTransparent.png" height="500"/>
 
+**Time spent: 2h**
 
 
 
