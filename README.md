@@ -9,6 +9,8 @@ I have always been interested in battlebots, and being able to build this bot wo
 
 In terms of making and manufacturing this bot, the main frame is going to be printed out of 4 wall 20% gyroid infill 95a TPU, with a steel top plate, forks, and weapon. I have a lot of experience with 3d printing, as I have been in the community for over half my life. Through my FTC competitions, I have also gained a lot of knowledge in the build/design process, and was a major contributor to our robot this year. FTC has taught me important skills, like how to work with aluminum and other metals, and how to use 3d printing DFM to its advantage. For the electronics, I have experience with soldering through custom keyboards and FTC electronics, and I hope to be able to keep my wiring neat and compact. Since this is a 1lb combat robot, it will be difficult to fit all of the needed parts into the weight limit. This is something that I have experienced in FTC, as it is very important to keep your robot lightweight so it can quickly maneuver around the field. I spent a lot of time this season pocketing our aluminum plates to reduce weight, while keeping rigidity in mind. I simulated the robot through impacts using Altair SimSolid to see what an impact would do to the robot. I am very excited to be able to build this robot, as it is a combination of all the things I enjoy doing: 3d printing, building, electronics, and driving robots. Thank you for reading!
 
+<img src="https://github.com/2Mon/battlebot/blob/main/img/ezgif-7b4270b030abcf.gif" width="400"/>
+
 
 Onshape Link: [https://cad.onshape.com/documents/3b2e3f55b2d7ffb8620a25ee/w/87cee305e91c2ea666c4467e/e/6488bf77fe22068a5b4a9170?renderMode=0&uiState=683385c1c1a2b76f758891f1](url)
 
