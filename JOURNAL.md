@@ -116,3 +116,21 @@ I also found that a big part of my weight issues were coming from the wheels I c
 
 
 **Time spent: 4h**
+
+# More Tweaks 
+
+I decided to reduce the weight of the bot by making the forks thinner and adding pockets. This is unfortunate as I have already ordered them, but I will hopefully be able to get a refund or exchange. If not, I'll just buy it myself. I also spent some time cleaning up the frame, adding fillets to sharp corners and reducing weight where possible. 
+
+<img src="https://github.com/user-attachments/assets/c5c28bd0-085e-4afd-9f3b-94e740a5bdc7" height="300"/>
+
+**Time spent: 2h**
+
+# Renders!
+
+I thought my bot could use some nice renders that Onshape cant do, so I pulled the step into Fusion and started messing with materials. I'm pretty happy with the results of my renders, and I think that it looks pretty cool. 
+
+<img src="https://github.com/user-attachments/assets/6238f7bc-de6e-49c9-aef3-ba1725a2b91e" height="300"/>
+
+
+
+
