@@ -1,6 +1,6 @@
 # Untitled Document Battlebot
 
-![image](https://github.com/user-attachments/assets/71783c6f-97ee-40b7-bac9-0aa844673c2a)
+![image](https://github.com/2Mon/battlebot/blob/main/img/BotRenderTransparent.png)
 
 
 This is my vertical spinner battlebot that I'm calling "Untitled Document". It uses a steel blade that should easily destroy enemy shields and weapons. It uses two steel forks at the front to lift other bots into the spinner, allowing for shots under the bots. 
