@@ -129,7 +129,7 @@ I decided to reduce the weight of the bot by making the forks thinner and adding
 
 I thought my bot could use some nice renders that Onshape cant do, so I pulled the step into Fusion and started messing with materials. I'm pretty happy with the results of my renders, and I think that it looks pretty cool. 
 
-<img src="https://github.com/user-attachments/assets/6238f7bc-de6e-49c9-aef3-ba1725a2b91e" height="300"/>
+<img src="https://github.com/2Mon/battlebot/blob/main/img/BotRenderTransparent.png" height="500"/>
 
 
 
