@@ -5,7 +5,7 @@ description: "Vertical spinner battlebot to compete at GSCRL"
 created_at: "2025-5-25"
 ---
 
-**Total Time spent: 20h**
+**Total Time spent: 24h**
 
 # Found basic parts to use!
 
@@ -103,3 +103,16 @@ I made a couple changes to my vertical assembly in this session. I decided to ad
 <img src="https://github.com/user-attachments/assets/75aa1534-ac7c-46d2-864e-3ace9095efd9" width="400"/>
 
 **Time spent: 2h**
+
+# oops! (again)
+
+I printed out the frame for the battlebot out of TPU and found out that it was *way* too heavy. It was about 167g in total. This made me decide to figure out how much the rest of the components weighed, and it ended up being over 600g. I was about 160g over the weight limit. I decided to cut down on weight by reducing the walls and infill on the print (from 6/6 25% to 3/3 15%) which helped, but didnt get me close enough. I then moved on to frame modifications, where I reduced the size of the wheel protectors and cut out some big blocks of material. This helped a lot, bringing the weight for the frame down to about 90g. I also added two small "ears" to the bot which should help with the bot being able to flip itself back to being upright after a big hit. 
+
+<img src="https://github.com/user-attachments/assets/a1ab6dbe-de07-41c2-9b10-84caa6e49955" width="400"/>
+
+I also found that a big part of my weight issues were coming from the wheels I chose. They were nearly 20g each! I already ordered them, but I am trying to return them. If I can't, I'll pay for the other wheels out of pocket. They are foam and weigh less than 2g, plus the hubs which are about 5g. Im still slightly over the weight limit, but some slicer optimizations should help. 
+
+<img src="https://github.com/user-attachments/assets/f6b193bb-61ff-4499-a228-ffaf55ba4a23" height="200"/> <img src="https://github.com/user-attachments/assets/01a3a83c-0cbe-45bd-bbe0-2295d0fcc798" height="200"/>
+
+
+**Time spent: 4h**
