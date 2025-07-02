@@ -5,7 +5,7 @@ description: "Vertical spinner battlebot to compete at GSCRL"
 created_at: "2025-5-25"
 ---
 
-**Total Time spent: 28h**
+**Total Time spent: 34h**
 
 # Found basic parts to use!
 
@@ -137,3 +137,5 @@ I thought my bot could use some nice renders that Onshape cant do, so I pulled t
 # Issues
 
 I started assmebly and got the important parts put together. This was vedy painful, as I had many components fry through the process. First my drive ESC fried, due to a falty component. Then my drive motor failed, for reasons I am still unable to figure out. I assembled the weapon, though, and managed to do a spinup test. It is incredibly scary. I am currently working on getting the drive system working, just waiting on a new motor. 
+
+**Time Spent: 6hrs**
